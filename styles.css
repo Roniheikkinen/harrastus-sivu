@@ -25,21 +25,24 @@ a {
     color: lightskyblue;
 }
 h3 {
-    font-size: 35px;
+    font-size: 40px;
     color: aqua;
     padding-left: 30px;
     
 }
 .hauskaa {
-    font-size: 25px;
+    font-size: 30px;
     color: aqua;
 }
 img {
     size: 5cm;
+    
 }
+
 .kuva {
     block-size: 400px;
     padding-top: 75px;
+    width: 600px;
     
 }
 .työ {
@@ -47,4 +50,9 @@ img {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     color: lightsteelblue;
+}
+.kuva2 {
+    block-size: 400px;
+    padding-top: 75px;
+    width: 600px;
 }
